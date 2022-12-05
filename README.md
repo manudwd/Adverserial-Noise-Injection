@@ -5,6 +5,10 @@ The process of adding noise from $\mathcal{Ν}(𝜇,𝜎^2)$ over the training p
 We can model this noise as an adversary, and a defender that tries to reduce the noise.
 
 Non-zero sum game, in discrete two player simultaneous play.
+$\mathcal{N}(J(\gamma^*, \sigma^*),1)$
+
+Choice of Function:
+$J(\gamma,\sigma, \lambda)=e^{\gamma}ln(\sigma) + \lambda\gamma^{2}- \lambda\sigma^{2}$
 
 The choice of function is affine in the first term, concave in the second, convex in the third.
 
