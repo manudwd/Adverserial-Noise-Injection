@@ -9,7 +9,7 @@ Non-zero sum game, in discrete two player simultaneous play.
 The choice of function is affine in the first term, concave in the second, convex in the third.
 
 The feasible saddle point of this function is known, and it exists in the margin of tolerance of the model such that if 
-\$J(\gamma^{*},\sigma^{*})$ is played, model behavior can be approximated  to a $\mathcal{N}(0,1)$ noise injection model. 
+\$J(\gamma^{\star},\sigma^{\star})$ is played, model behavior can be approximated  to a $\mathcal{N}(0,1)$ noise injection model. 
 
 ## Lemke-Howson Algorithm
 
