@@ -3,9 +3,9 @@
 The process of adding noise from $\mathcal{Ν}(𝜇,𝜎^2)$ over the training process becomes too stable, and often only lead to improvement in robustness of models with large complexity.
 
 We can model this noise as an adversary, and a defender that tries to reduce the noise.
+$\mathcal{N}(J(\gamma^\star, \sigma^\star),1)$
 
 Non-zero sum game, in discrete two player simultaneous play.
-$\mathcal{N}(J(\gamma^\star, \sigma^\star),1)$
 
 Choice of Function:
 $J(\gamma,\sigma, \lambda)=e^{\gamma}ln(\sigma) + \lambda\gamma^{2}- \lambda\sigma^{2}$
