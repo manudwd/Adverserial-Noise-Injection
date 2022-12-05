@@ -13,3 +13,7 @@ The feasible saddle point of this function is known, and it exists in the margin
 ## Lemke-Howson Algorithm
 
 Is used to compute a Nash Equilibrium.
+
+## Results
+
+![image](https://user-images.githubusercontent.com/56117150/205672680-1d13044a-cedc-4a06-b5e0-42f53d4316c3.png)
